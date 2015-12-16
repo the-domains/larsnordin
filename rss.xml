@@ -4,21 +4,14 @@
         <description><![CDATA[larsnordin]]></description>
         <link>https://thegrid.ai/larsnordin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 18:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Dec 2015 20:02:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/larsnordin/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/larsnordin/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">4cb2dfb3-0f55-4500-b423-de08bfd4b5e9</guid>
-            <pubDate>Wed, 16 Dec 2015 18:29:01 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Hej!]]></title>
             <description><![CDATA[<article><h1>Hej!</h1><p>Hej</p></article>]]></description>
             <link>https://thegrid.ai/larsnordin/hej/index.html</link>
             <guid isPermaLink="false">ea42625a-c9ac-4b7a-b9a3-2d4f97babb98</guid>
-            <pubDate>Wed, 16 Dec 2015 18:27:26 GMT</pubDate>
+            <pubDate>Wed, 16 Dec 2015 18:29:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
