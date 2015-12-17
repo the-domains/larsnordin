@@ -1,12 +1,7 @@
+name: larsnordin
 favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 0.4839
+typography_spectrum: 0.6702509
 collections:
   - index:
       path: /
@@ -19,22 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7598566
-  brandStrength: 0.4749104
-  rhythmicContrast: 0.7634408
   brandColors:
     - '#F3FFFF'
     - '#161515'
     - '#425C6E'
     - '#BDA388'
     - '#F20C0C'
+  brandStrength: 0.4749104
   lightness: 0
-typography_spectrum: 0.6702509
-layout_spectrum: 0.9964158
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: larsnordin
+  saturation: 0.7598566
+  rhythmicContrast: 0.7634408
+purpose: []
