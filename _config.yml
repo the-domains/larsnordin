@@ -1,4 +1,7 @@
-layout_spectrum: 0.4839
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -27,14 +30,11 @@ color:
     - '#FFFFFF'
     - '#E0E0E0'
   rhythmicContrast: 0.7634408
-typography_spectrum: 0.6702509
+typography_spectrum: 0.7329749
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 0.03405018
 favicon: null
 name: larsnordin
